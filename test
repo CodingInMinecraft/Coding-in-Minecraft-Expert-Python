@@ -1,1 +1,5 @@
 
+git config --global user.name "Peter"
+
+git config --global user.email "peter.doherty@prodigylearning.com"
+
