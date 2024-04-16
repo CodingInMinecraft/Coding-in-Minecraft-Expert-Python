@@ -1,5 +1,6 @@
 {
     "name": "coding-in-minecraft-expert-python-tree-main",
+    "version": "0.0.1",
     "dependencies": {
         "core": "*",
         "builder": "*",
