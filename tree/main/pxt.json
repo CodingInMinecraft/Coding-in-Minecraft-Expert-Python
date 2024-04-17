@@ -1,0 +1,25 @@
+{
+    "name": "coding-in-minecraft-expert-python-tree-main",
+    "version": "0.0.1",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "coding-in-minecraft-expert-python": "github:codinginminecraft/coding-in-minecraft-expert-python"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.4",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
