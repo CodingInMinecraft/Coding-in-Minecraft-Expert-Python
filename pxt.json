@@ -126,7 +126,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "2.1.20",
+        "target": "2.1.27",
         "targetId": "minecraft"
     },
     "supportedTargets": [
